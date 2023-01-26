@@ -1,7 +1,6 @@
 
 # Datapack Docs
 This is meant for those who might be new, or just want to check out the docs in case there is something they don't know.
-*However*, there is a advanced documentation **coming soon!**
 
 ## What does this cover?
 
